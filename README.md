@@ -1,3 +1,5 @@
+> ## WIP: This repo is a work in progress for the [polar.sh](https://polar.sh) plugin fort PayloadCMS
+
 # Payload Plugin Template
 
 A template repo to create a [Payload CMS](https://payloadcms.com) plugin.
